@@ -59,6 +59,7 @@ a {
   margin-bottom: 12%;
   background-color: rgba(0, 0, 0, 0.7);
   max-width: 660px;
+  color: white;
 }
 .button {
   color: #ffffff;
@@ -70,7 +71,7 @@ a {
   border-radius: 6px;
 }
 .content {
-  height: 600px;
+  min-height: 600px;
 }
 .container {
   width: 90%;
@@ -99,4 +100,9 @@ a {
   padding: 0px 10px 10px;
   font-weight: bold;
   text-align: center;
+}
+footer {
+  background-color: #000000;
+  color: #fff;
+  font-size: 14px;
 }
